@@ -1,0 +1,17 @@
+#contenedor
+{
+    width: 80%;
+    margin: auto;
+}
+.carousel-caption {
+    top: 30%;       
+    padding-left: 30%;
+    
+}
+.oscurecer_img{
+filter: brightness(50%); 
+ }
+
+.aclarar_btn{
+    filter: brightness(150%)
+}
