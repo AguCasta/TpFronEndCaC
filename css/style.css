@@ -15,3 +15,16 @@ filter: brightness(50%);
 .aclarar_btn{
     filter: brightness(150%)
 }
+.cuadrado {   
+   
+    height: 300 px;
+    border-width: 2px;
+    border-style: dotted;
+    text-align: center;
+}
+.txtsu{
+    color: gray;
+    font-size: small;
+}
+
+}
